@@ -1,5 +1,5 @@
 # SwiftCXX
-Call C/C++ Code combined from Swift in windows 
+Call C/C++ combined from Swift in windows 
 
 
 
