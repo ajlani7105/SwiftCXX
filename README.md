@@ -1,11 +1,12 @@
 # SwiftCXX
-Call C++ Code from Swift in windows
-
+Call C/C++ Code combined from Swift in windows 
 
 
 
 
 # build
+open CMakeLists.txt file and edit swiftc compiler path if not correct 
+
 ```bash
 cmake .
 cmake --build . --target all
